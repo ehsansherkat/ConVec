@@ -3,7 +3,7 @@
 """
 import logging
 
-Path = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/'
+Path = 'Wikipedia/pages/'
 WikipediaCleanPath = "pagesTextCleanAnchorID_tittle_extend.txt"
 pagesOnlyAnchorID = list() # clean only anchorID of pages
 wiki_index = 4372559
