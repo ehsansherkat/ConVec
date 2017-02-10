@@ -1,6 +1,6 @@
 # ConVec: Vector Embedding of Wikipedia Concepts and Entities
 
-WikipediaParser folder contains the code to extract and prepare the Wikipedia.
+WikipediaParser folder contains the code to extract and prepare the Wikipedia dump.
 
 The ip_title_mao_all file:
 
