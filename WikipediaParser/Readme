@@ -2,4 +2,4 @@ The Wikipedia Parser and extension tool. We used the following libraries:
 
 Wikiextractor: www.github.com/attardi/wikiextractor
 Mwparserfromhell: www.github.com/earwig/mwparserfromhell
-Wikipedia 1.4.0: {www.pypi.python.org/pypi/wikipedia
+Wikipedia 1.4.0: www.pypi.python.org/pypi/wikipedia
