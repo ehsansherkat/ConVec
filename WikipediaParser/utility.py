@@ -179,7 +179,7 @@ def extractWikiIDVectors(modelPath, outputPath):
     @return: Number of vectors
     """
     file = open(modelPath, 'r')
-    ID_Title_All_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/id_title_map.csv"
+    ID_Title_All_Path = "id_title_map.csv"
     Title_ID_All = {}
     output = list()
     # read ID_Title_Map_All
