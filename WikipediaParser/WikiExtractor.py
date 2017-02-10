@@ -1,5 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#++++++++++++++++++++++++++++++++++++++++++++++
+# Changes made by: Ehsan Sherkat
+# The following methods are changed or added to the original code:
+# replaceInternalLinksByAnchor
+# getAnchor
+# makeInternalLinkAnchor
+# makeInternalLinkByAnchor
+# cleanText
+# numberToLiteral
+#++++++++++++++++++++++++++++++++++++++++++++++
 
 # =============================================================================
 #  Version: 2.55 (March 23, 2016)
