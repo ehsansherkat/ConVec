@@ -12,10 +12,10 @@ import gc
 import re
 import unicodedata
 
-Path = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/'
+Path = 'Wikipedia/pages/'
 WikipediaCleanPath = "pagesTextCleanAnchorID.txt"
 surface_hash = {} # surface hash
-ID_Title_Pruned_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/ID_Title_Map_Pruned.csv"
+ID_Title_Pruned_Path = "ID_Title_Map_Pruned.csv"
 ID_Title_Pruned = {} # ID tittle hashmap
 indegree = {} # in degree hashmap
 pagesTextCleanAnchorID_title_extend = list() # clean text of Wikipedia pages by anchorID replaced and title added
