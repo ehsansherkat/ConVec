@@ -18,13 +18,13 @@ import utility
 from collections import defaultdict
 from xml.dom import minidom
 
-ID_TitlePath = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/id_title_map.csv" # The path to the ID Title Map file
-ID_TitlePath_Pruned = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/ID_Title_Map_Pruned.csv" # The path to the ID Title Map pruned file
-ID_Title_Path_All = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/id_title_map.csv"
+ID_TitlePath = "pages/id_title_map.csv" # The path to the ID Title Map file
+ID_TitlePath_Pruned = "ID_Title_Map_Pruned.csv" # The path to the ID Title Map pruned file
+ID_Title_Path_All = "id_title_map.csv"
 ID_Title_Map_Pruned = {} # The pruned hashmap of pages
 Title_ID_Map_All = {} # All wikipedia pages
-Path = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/' # where to save result and where the pages are
-redirectHashmapPath = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/redirectHashmap.csv"
+Path = 'Wikipedia/pages/' # where to save result and where the pages are
+redirectHashmapPath = "/pages/redirectHashmap.csv"
 redirectHashmap = {}
 file_list = list() # list of the path of the pages
 inlinkGraph = defaultdict(list) # dictionary of in links of a page
