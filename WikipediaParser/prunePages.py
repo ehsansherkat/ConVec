@@ -25,8 +25,8 @@ import re
 from xml.dom import minidom
 from collections import defaultdict
 
-Path = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/' # where to save result and where the pages are
-ID_TitlePath = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/id_title_map.csv" # The path to the ID Title Map file
+Path = 'Wikipedia/pages/' # where to save result and where the pages are
+ID_TitlePath = "id_title_map.csv" # The path to the ID Title Map file
 ID_Title_Map_Pruned = list() # The pruned list of pages
 ID_Type_Map = list() # The type of the page (redirect, category, file, template, ...)
 redirectDic = defaultdict(list) # dictionary of redirects
