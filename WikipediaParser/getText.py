@@ -9,12 +9,12 @@ import utility
 import logging
 from xml.dom import minidom
 
-ID_Title_Pruned_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/ID_Title_Map_Pruned.csv" # The path to the ID Title Map pruned file
-ID_Title_All_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/id_title_map.csv"
-Path = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/' # where to save result and where the pages are
-Redirect_Hashmap_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/redirectHashmap.csv"
-Out_Link_Graph_Degree_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/inlinkGraphDegree.csv"
-In_Link_Graph_Degree_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/outlinkGraphDegree.csv"
+ID_Title_Pruned_Path = "ID_Title_Map_Pruned.csv" # The path to the ID Title Map pruned file
+ID_Title_All_Path = "id_title_map.csv"
+Path = '/Wikipedia/pages/' # where to save result and where the pages are
+Redirect_Hashmap_Path = "redirectHashmap.csv"
+Out_Link_Graph_Degree_Path = "inlinkGraphDegree.csv"
+In_Link_Graph_Degree_Path = "outlinkGraphDegree.csv"
 
 file_list = list() # list of the path of the pages
 ID_Title_Pruned = {}
