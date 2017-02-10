@@ -15,10 +15,10 @@ import utility
 import re
 import unicodedata
 
-Path = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/'
+Path = 'Wikipedia/pages/'
 WikipediaCleanPath = "pagesTextCleanAnchorID.txt"
 WikipediaCleanPath_index = "pagesTextCleanAnchorID_Index.txt"
-ID_Title_Pruned_Path = "/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/ID_Title_Map_Pruned.csv"
+ID_Title_Pruned_Path = "ID_Title_Map_Pruned.csv"
 wiki_index = list() # index of pages
 ID_Title_Pruned = {} # ID tittle hashmap
 pagesTextCleanAnchorID_title = list() # clean text of Wikipedia pages by anchorID replaced and title added
