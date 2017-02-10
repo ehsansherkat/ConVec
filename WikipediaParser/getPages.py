@@ -7,8 +7,8 @@ import os
 from xml.etree.cElementTree import iterparse
 from xml.etree import ElementTree
 
-dumpPath = "/home/ehsan/Downloads/enwiki-20160501-pages-articles-multistream.xml"
-outputPath = '/media/ehsan/My Documents/Shared/Datasets/Wikipedia/pages/'
+dumpPath = "enwiki-20160501-pages-articles-multistream.xml"
+outputPath = 'Wikipedia/pages/'
 nameSpace = '{http://www.mediawiki.org/xml/export-0.10/}'
 tagName = 'page'
 bucket = 50000 # number of file that will be put in each folder
