@@ -12,11 +12,11 @@ Please Contact me to get the following files (due to the large size of them):
 
 Please cite to the following paper if you used the code, datasets and vector embedings:
 ```
-@misc{submit/1802422,
+@misc{Arxiv:submit/1802422,
    Author = {Ehsan Sherkat, Evangelos Milios},
    Title  = {Vector Embedding of Wikipedia Concepts and Entities},
    Year   = {2017},
    Url    = {https://web.cs.dal.ca/~sherkat/Files/submit_1802422.pdf}
-   Eprint = {submit/1802422},
+   Eprint = {Arxiv:submit/1802422},
 }
 ```
