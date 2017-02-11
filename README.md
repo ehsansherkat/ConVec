@@ -11,10 +11,11 @@ Please Contact me to get the following files (due to the large size of them):
  - ConVec Only Anchors (~9.5GB)
 
 Please cite to the following paper if you used the code, datasets and vector embedings:
-
+```
 @misc{?,
  Author = {Ehsan Sherkat, Evangelos Milios},
  Title = {Vector Embedding of Wikipedia Concepts and Entities},
  Year = {2017},
  Eprint = {arXiv:?},
 }
+```
