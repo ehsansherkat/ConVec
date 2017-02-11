@@ -5,7 +5,7 @@ Mwparserfromhell: www.github.com/earwig/mwparserfromhell
 Wikipedia 1.4.0: www.pypi.python.org/pypi/wikipedia
 
 Please cite to the following paper if you used the code.
-```
+
 @misc{submit/1802422,
    Author = {Ehsan Sherkat, Evangelos Milios},
    Title  = {Vector Embedding of Wikipedia Concepts and Entities},
@@ -13,4 +13,4 @@ Please cite to the following paper if you used the code.
    Url    = {https://web.cs.dal.ca/~sherkat/Files/submit_1802422.pdf}
    Eprint = {submit/1802422},
 }
-```
+
