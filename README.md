@@ -9,7 +9,7 @@ Please find in the following, link to pre-traind Concept, Word and Entitie vecto
  - ConVec https://web.cs.dal.ca/~sherkat/Files/WikipediaClean5Negative300Skip10.zip (3.3GB) 
  - ConVec Fine Tuned (6.86GB)
  - ConVec Heuristic: https://dalu-my.sharepoint.com/personal/eh379022_dal_ca/_layouts/15/guestaccess.aspx?docid=0b42ef5ba2d3247ccab2c10d5c1691a47&authkey=AYZLBIfjQLta9aAmSaRzymY (3.75GB)
- - ConVec Only Anchors (3.57GB)
+ - ConVec Only Anchors https://dalu-my.sharepoint.com/personal/eh379022_dal_ca/_layouts/15/guestaccess.aspx?docid=0592fd0392e1f4ec89d84a512e6482d03&authkey=AVpBqVspTRnF0Ra6xedMVIk (3.57GB)
 
 Please cite to the following paper if you used the code, datasets and vector embedings:
 ```
