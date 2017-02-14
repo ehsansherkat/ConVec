@@ -7,7 +7,7 @@ Please find in the following, link to pre-traind Concept, Word and Entitie vecto
 
 - Traind Concepts, Entities and Words: Concepts and entities are presented by their Wikipedia ID.
  - ConVec https://web.cs.dal.ca/~sherkat/Files/WikipediaClean5Negative300Skip10.zip (3.3GB) 
- - ConVec Fine Tuned (6.86GB)
+ - ConVec Fine Tuned: https://dalu-my.sharepoint.com/personal/eh379022_dal_ca/_layouts/15/guestaccess.aspx?docid=0602754033d8a4e65aa8c841aa2efc491&authkey=AZGkUWbSwjiO4SrsPub0LBI (6.86GB)
  - ConVec Heuristic: https://dalu-my.sharepoint.com/personal/eh379022_dal_ca/_layouts/15/guestaccess.aspx?docid=0b42ef5ba2d3247ccab2c10d5c1691a47&authkey=AYZLBIfjQLta9aAmSaRzymY (3.75GB)
  - ConVec Only Anchors https://dalu-my.sharepoint.com/personal/eh379022_dal_ca/_layouts/15/guestaccess.aspx?docid=0592fd0392e1f4ec89d84a512e6482d03&authkey=AVpBqVspTRnF0Ra6xedMVIk (3.57GB)
 
