@@ -16,7 +16,7 @@ Please cite to the following paper if you used the code, datasets and vector emb
    Author = {Ehsan Sherkat, Evangelos Milios},
    Title  = {Vector Embedding of Wikipedia Concepts and Entities},
    Year   = {2017},
-   Url    = {https://web.cs.dal.ca/~sherkat/Files/submit_1802422.pdf}
+   Url    = {https://arxiv.org/abs/1702.03470}
    Eprint = {arXiv:1702.03470},
 }
 ```
