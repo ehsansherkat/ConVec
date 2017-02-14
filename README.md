@@ -3,7 +3,7 @@
 WikipediaParser folder contains the code to extract and prepare the Wikipedia dump.
 
 Please Contact me to get the following files (due to the large size of them): 
-- The Wikipedia ID to Title map file (~700MB): This file maps the Wikipedia ID of a page to its title.
+- The Wikipedia ID to Title map file (This file maps the Wikipedia ID of a page to its title): https://web.cs.dal.ca/~sherkat/Files/ID_title_map.zip (210MB)
 - Traind Concepts, Entities and Words: Concepts and entities are presented by their Wikipedia ID.
  - ConVec https://web.cs.dal.ca/~sherkat/Files/WikipediaClean5Negative300Skip10.zip (3.3GB) 
  - ConVec Fine Tuned (~9.5GB)
