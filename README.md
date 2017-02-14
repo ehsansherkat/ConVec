@@ -6,8 +6,8 @@ Please find in the following, link to pre-traind Concept, Word and Entitie vecto
 - The Wikipedia ID to Title map file (This file maps the Wikipedia ID of a page to its title): https://web.cs.dal.ca/~sherkat/Files/ID_title_map.zip (210MB)
 - Traind Concepts, Entities and Words: Concepts and entities are presented by their Wikipedia ID.
  - ConVec https://web.cs.dal.ca/~sherkat/Files/WikipediaClean5Negative300Skip10.zip (3.3GB) 
- - ConVec Fine Tuned (~9.5GB)
- - ConVec Heuristic (~9.5GB)
+ - ConVec Fine Tuned (~3.75GB)
+ - ConVec Heuristic (3.75 GB)
  - ConVec Only Anchors (~9.5GB)
 
 Please cite to the following paper if you used the code, datasets and vector embedings:
