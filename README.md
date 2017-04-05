@@ -19,5 +19,6 @@ Please cite to the following paper if you used the code, datasets and vector emb
    Year   = {2017},
    Url    = {https://arxiv.org/abs/1702.03470}
    Eprint = {arXiv:1702.03470},
+   booktitle= {NLDB 2017}
 }
 ```
