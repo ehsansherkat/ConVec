@@ -13,12 +13,13 @@ Please find in the following, link to pre-traind Concept, Word and Entitie vecto
 
 Please cite to the following paper if you used the code, datasets and vector embedings:
 ```
-@misc{arXiv:1702.03470,
+@misc{NLDBSherkat2017,
    Author = {Ehsan Sherkat, Evangelos Milios},
    Title  = {Vector Embedding of Wikipedia Concepts and Entities},
    Year   = {2017},
-   Url    = {https://arxiv.org/abs/1702.03470}
-   Eprint = {arXiv:1702.03470},
-   booktitle= {NLDB 2017}
+   link    = {https://arxiv.org/abs/1702.03470}
+   Url    = {https://doi.org/10.1007/978-3-319-59569-6_50}
+   doi    = {10.1007/978-3-319-59569-6_50}
+   booktitle= {Natural Language Processing and Information Systems, NLDB 2017}
 }
 ```
