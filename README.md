@@ -2,7 +2,7 @@
 
 WikipediaParser folder contains the code to extract and prepare the Wikipedia dump.
 
-Please find in the following, link to pre-traind Concept, Word and Entitie vectors (as a result of this project): 
+Please find in the following, link the pre-traind Concept, Word and Entitie vectors (as a result of this project): 
 - The Wikipedia ID to Title map file (This file maps the Wikipedia ID of a page to its title): https://web.cs.dal.ca/~sherkat/Files/ID_title_map.zip (210MB)
 
 - Traind Concepts, Entities and Words: Concepts and entities are presented by their Wikipedia ID.
